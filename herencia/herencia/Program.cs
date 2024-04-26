@@ -20,6 +20,7 @@ namespace herencia
     {
         /// <summary>
         /// Punto de entrada principal para la aplicación.
+        // Este es un comentario 26-02-2024
         /// </summary>
         [STAThread]
         static void Main()
